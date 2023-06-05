@@ -17,9 +17,7 @@ yarn.lock
 .env
 .DS_Store
 .env.local
-.env.development
 .env.staging
-.env.qa
 .env.test.local
 .env.production
 
